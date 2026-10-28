@@ -1,0 +1,7 @@
+************* Module ecommerce_cart_system
+ecommerce_cart_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+ecommerce_cart_system.py:4:0: W0105: String statement has no effect (pointless-string-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.59/10 (previous run: 8.80/10, +0.79)
+
